@@ -1,0 +1,13 @@
+HARDWARE
+- ProLiant ML350 Gen9
+- Intel(R) Xeon(R) CPU E5-2609 v3 @ 1.90GHz (6 cores)
+- 16GB RAM
+- GeForce GTX TITAN X
+
+SOTFWARE
+- CentOS Linux release 7.7.1908
+- Kernel 3.10.0-1062.4.3.el7.x86_64
+- Cuda 10.2
+- Driver 440.59 
+- TensorFow 2.1.0
+- PyTorch 1.4.0
